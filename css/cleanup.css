@@ -9,6 +9,10 @@
   display: none;
 }
 
+#wall  {
+  display: none;
+}
+
 #wall .tag-4 {
   display: none;
 }
