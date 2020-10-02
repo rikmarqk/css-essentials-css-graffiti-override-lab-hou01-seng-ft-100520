@@ -7,5 +7,7 @@
 }
 
 #wall .tag-1 {
+  background: red;
+  z-index: 9;
   display: none;
 }
